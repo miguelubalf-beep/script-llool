@@ -623,9 +623,4 @@ MiscTab:CreateParagraph({
 	Content = "Amigos aparecem no ESP mas o Aim Lock nunca trava neles."
 })
 
-MiscTab:CreateParagraph({
-	Title = "Criador do script",
-	Content = "Esse xit foi desenvolvido pelo seven xit 100% BR"
-})
-
 print("[Criminality HVH] Only Visibles adicionado")
