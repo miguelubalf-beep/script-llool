@@ -389,9 +389,9 @@ end)
 
 -- ===== MENU =====
 local Window = Rayfield:CreateWindow({
-	Name = "Criminality HVH",
+	Name = "seven menu",
 	LoadingTitle = "Carregando...",
-	LoadingSubtitle = "Criminality",
+	LoadingSubtitle = "esse cheat funciona pra qualquer jogo...",
 	ConfigurationSaving = { Enabled = false },
 	KeySystem = false
 })
