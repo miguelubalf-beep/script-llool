@@ -389,7 +389,7 @@ end)
 
 -- ===== MENU =====
 local Window = Rayfield:CreateWindow({
-	Name = "seven menu",
+	Name = "SEVEN XIT",
 	LoadingTitle = "Carregando...",
 	LoadingSubtitle = "esse cheat funciona pra qualquer jogo...",
 	ConfigurationSaving = { Enabled = false },
@@ -620,7 +620,7 @@ MiscTab:CreateButton({
 
 MiscTab:CreateParagraph({
 	Title = "Amigos",
-	Content = "Amigos aparecem no ESP mas o Aim Lock nunca trava neles."
+	Content = "Amigos aparecem no ESP mas o Aim Lock nunca trava neles.   esse xit foi desenvolvido pelo seven xit 100% BR"
 })
 
 print("[Criminality HVH] Only Visibles adicionado")
